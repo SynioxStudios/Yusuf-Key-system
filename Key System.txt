@@ -1,3 +1,5 @@
+-- [[ IF YOU DON'T INCLUDE MY NAME IN THE CREDITS, I'LL LEAK YOUR SCRIPT ♥️ ]]
+
 local _0xK = "Syniox-X-Yusuf" 
 local TweenService = game:GetService("TweenService")
 
